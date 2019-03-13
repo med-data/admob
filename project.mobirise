@@ -45,7 +45,8 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131461242-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-131461242-3');\r\n</script>\r\n",
     "cookiesAlert": "",
     "gdpr": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -294,7 +295,7 @@
               "z-index": "auto"
             },
             "B": {
-              "color": "#0f7699"
+              "color": "#efefef"
             },
             "I": {
               "color": "#ff7c00"
